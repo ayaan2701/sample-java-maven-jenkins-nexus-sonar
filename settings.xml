@@ -19,9 +19,9 @@
 
   <mirrors>
     <mirror>
-      <id>repo</id>
-      <name>repo</name>
-      <url>http://10.22.21.138:8081/repository/repo/</url>
+      <id>maven-releases</id>
+      <name>maven-releases</name>
+      <url>http://13.232.59.140:8081/repository/maven-releases/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
